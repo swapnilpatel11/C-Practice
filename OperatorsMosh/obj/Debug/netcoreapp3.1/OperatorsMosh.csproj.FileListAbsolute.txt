@@ -1,0 +1,13 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\bin\Debug\netcoreapp3.1\OperatorsMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\OperatorsMosh\obj\Debug\netcoreapp3.1\OperatorsMosh.genruntimeconfig.cache

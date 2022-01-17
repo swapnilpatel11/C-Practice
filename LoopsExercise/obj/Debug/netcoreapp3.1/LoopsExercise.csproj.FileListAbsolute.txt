@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\bin\Debug\netcoreapp3.1\LoopsExercise.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\LoopsExercise\obj\Debug\netcoreapp3.1\LoopsExercise.genruntimeconfig.cache

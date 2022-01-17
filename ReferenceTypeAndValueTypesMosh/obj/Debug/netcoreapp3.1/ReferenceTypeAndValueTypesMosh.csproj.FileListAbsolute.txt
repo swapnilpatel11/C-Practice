@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\bin\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.genruntimeconfig.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ReferenceTypeAndValueTypesMosh\obj\Debug\netcoreapp3.1\ReferenceTypeAndValueTypesMosh.GeneratedMSBuildEditorConfig.editorconfig

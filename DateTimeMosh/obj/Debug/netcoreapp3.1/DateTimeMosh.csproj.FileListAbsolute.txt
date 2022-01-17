@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.genruntimeconfig.cache

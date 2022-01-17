@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\bin\Debug\netcoreapp3.1\ConditionalOperator.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\ConditionalOperator\obj\Debug\netcoreapp3.1\ConditionalOperator.genruntimeconfig.cache

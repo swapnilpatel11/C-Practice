@@ -1,0 +1,13 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\bin\Debug\netcoreapp3.1\PracticeMosh1.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\PracticeMosh1\obj\Debug\netcoreapp3.1\PracticeMosh1.genruntimeconfig.cache

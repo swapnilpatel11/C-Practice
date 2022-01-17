@@ -1,0 +1,13 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\bin\Debug\netcoreapp3.1\EnumMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\EnumMosh\obj\Debug\netcoreapp3.1\EnumMosh.genruntimeconfig.cache
