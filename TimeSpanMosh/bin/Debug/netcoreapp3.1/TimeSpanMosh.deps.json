@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TimeSpanMosh/1.0.0": {
+        "runtime": {
+          "TimeSpanMosh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeSpanMosh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

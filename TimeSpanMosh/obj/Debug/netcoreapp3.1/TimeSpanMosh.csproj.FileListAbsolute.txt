@@ -1,0 +1,13 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\bin\Debug\netcoreapp3.1\TimeSpanMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\TimeSpanMosh\obj\Debug\netcoreapp3.1\TimeSpanMosh.genruntimeconfig.cache

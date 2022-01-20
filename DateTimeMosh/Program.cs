@@ -20,7 +20,7 @@ namespace DateTimeMosh
             Console.WriteLine(now.ToShortDateString());
             Console.WriteLine(now.ToLongTimeString());
             Console.WriteLine(now.ToShortTimeString());
-            Console.WriteLine(now.ToString());
+            Console.WriteLine(now.ToString("F"));  //used for different time and date format
 
         }
     }

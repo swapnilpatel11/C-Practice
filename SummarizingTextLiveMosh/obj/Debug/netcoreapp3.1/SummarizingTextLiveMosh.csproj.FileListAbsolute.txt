@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\bin\Debug\netcoreapp3.1\SummarizingTextLiveMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.csproj.AssemblyReference.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\SummarizingTextLiveMosh\obj\Debug\netcoreapp3.1\SummarizingTextLiveMosh.genruntimeconfig.cache

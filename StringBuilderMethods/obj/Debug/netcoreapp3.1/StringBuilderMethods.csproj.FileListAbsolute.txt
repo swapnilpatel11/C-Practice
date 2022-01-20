@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\bin\Debug\netcoreapp3.1\StringBuilderMethods.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.genruntimeconfig.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringBuilderMethods\obj\Debug\netcoreapp3.1\StringBuilderMethods.csproj.AssemblyReference.cache

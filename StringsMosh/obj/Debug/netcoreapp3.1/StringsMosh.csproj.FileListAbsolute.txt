@@ -1,0 +1,14 @@
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.exe
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.deps.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.runtimeconfig.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.runtimeconfig.dev.json
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\bin\Debug\netcoreapp3.1\StringsMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.AssemblyInfoInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.AssemblyInfo.cs
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.dll
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.pdb
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.genruntimeconfig.cache
+C:\Users\Swapnil Patel\source\repos\PracticeMosh1\StringsMosh\obj\Debug\netcoreapp3.1\StringsMosh.csproj.AssemblyReference.cache
